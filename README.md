@@ -45,7 +45,7 @@
 git clone <https://github.com/krawlnet/telegram-health-bot.git>
 cd telegram-health-bot
 pip install -r requirements.txt
-python Bot.py
+python bot.py
 ```
 
 **After successfully running your bot, you can send `/start` command to your Bot User on Telegram and get started!
